@@ -13,6 +13,7 @@ namespace ConsoleApp1
             Console.WriteLine("Ahoj:)");
             Console.WriteLine("Ahoj - z winSrv2019");
             Console.WriteLine("Ahoj 2 - z winSrv2019");
+            Console.WriteLine("Ahoj 3 - z winSrv2019");
 
             Console.WriteLine("master branch...");
         }
